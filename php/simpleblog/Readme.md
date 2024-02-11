@@ -12,6 +12,9 @@ The projects is structure in this way:
  - model.php is the model used to get data from database
  - controllers.php are controllers use to take a request, use model and actions and supply a response
  
+ - - sqlschema
+ - - - blog_db use for this example, u have to setup a mysql or mariadb with this data and setup model.php with correct login and db values
+ 
  - - templates
  - - - layout.php is the layout of the simple blog
  - - - list.php, supply a list of blog articles to click
