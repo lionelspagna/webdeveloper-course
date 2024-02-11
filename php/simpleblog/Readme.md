@@ -16,3 +16,20 @@ The projects is structure in this way:
  - - - layout.php is the layout of the simple blog
  - - - list.php, supply a list of blog articles to click
  - - - show.php used to get an id and show the post, post can be clicked by list.php
+
+### Front Controller
+
+Take url like:
+
+/about
+/show
+/company
+
+This urls are redirect by a webserver configuration to index.php, inside index.php we are taking /about, /show, /company and connect to their specific page to show their content
+
+This is the cycle
+ - A user go to https://mywebsite.example/about
+ - Webserver point https://mywebsite.example/about to https://mywebsite.example/index.php(user see /about on browser)
+ - index.php is the front controller and look through php global variable and get /about
+ - index.php match /about with page about.php where inside there is the content to show on user browser(we suppose there is an html response)
+ 
