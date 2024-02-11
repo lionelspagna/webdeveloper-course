@@ -11,8 +11,8 @@ Today we are alive, tomorrow who know, i wanna leave some gained values to this 
 
 ### About this repository
 
-Here is placed any code in many popular programming language used in web development. You can take this code for free and do anything you want but remember all is under mit license.
+Here is placed any code in many popular programming languages used in web development. You can take this code for free and do anything you want but remember all is under mit license.
 
-You can find javascript vanilla code, jquery, c#, php, python, html, css, sass, less everything i test on my professional way and using in a real world context.
+You can find javascript vanilla code, jquery, c#, php, python, html, css, sass, less and everything i test on my professional way and using in a real world context.
 
 Everything is organized on various directories with related code.
