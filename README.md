@@ -1,5 +1,5 @@
 ### Why this repository?
-I love share my knowledge with others, i don't believe too much on money and i know are necessary to survive in this world and maybe for some little chicken money are all to demonstrate their power but not for me, i believe in people value wihtout any money on my ideal world.
+I love share my knowledge with others, i don't believe too much on money and i know are necessary to survive in this world and maybe for some little chicken money are all to demonstrate their power but not for me, i believe in people value without any money on my ideal world.
 
 Ok let's skip what i think about this topic.
 
