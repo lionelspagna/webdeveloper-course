@@ -15,4 +15,4 @@ Here is placed any code in many popular programming language used in web develop
 
 You can find javascript vanilla code, jquery, c#, php, python, html, css, sass, less everything i test on my professional way and using in a real world context.
 
-Everything is organized on various directories with inherit code.
+Everything is organized on various directories with related code.
