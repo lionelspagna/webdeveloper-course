@@ -31,5 +31,5 @@ This is the cycle
  - A user go to https://mywebsite.example/about
  - Webserver point https://mywebsite.example/about to https://mywebsite.example/index.php(user see /about on browser)
  - index.php is the front controller and look through php global variable and get /about
- - index.php match /about with page about.php where inside there is the content to show on user browser(we suppose there is an html response)
+ - index.php match /about with page about.php where inside there is the content to show on user browser(we suppose there is an html response but the response can be json, xml or other formats)
  
