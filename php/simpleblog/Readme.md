@@ -19,11 +19,11 @@ The projects is structure in this way:
 
 ### Front Controller
 
-Take url like:
+Take urls like:
 
-/about
-/show
-/company
+- /about
+- /show
+- /company
 
 This urls are redirect by a webserver configuration to index.php, inside index.php we are taking /about, /show, /company and connect to their specific page to show their content
 
